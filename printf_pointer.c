@@ -8,7 +8,7 @@
 int printf_pointer(va_list val)
 {
 	void *p;
-	char *s = "(nil)";
+	char *s = "(nulle)";
 	long int a;
 	int b;
 	int i;
