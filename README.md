@@ -1,1 +1,1 @@
-not empty
+I developed a custom printf function in C, replicating the standard printf's core functionality. It supports various format specifiers and enhanced my skills in string manipulation and variadic functions
